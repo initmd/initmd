@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1460" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1458" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,13 +94,13 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            28 Issues opened
+                            29 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            115 issue comments
+                            116 issue comments
                         </div>
                     </section>
                     <section>
@@ -121,7 +121,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 14 users
+                            Following 15 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -456,10 +456,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    14 followed
+                    15 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAACx0lEQVR4Ab3BYWiUdRzA8e/zf+5+v+fm43ZXrbna5l4sfKFBhlC0sBga11ypKGg4MGW51sgwIvaukL3ofRRRRAUhdDQFXyyI3lQQ0XupJH21KUjznHj7/+/s/k+96GCMu3kv3PP5BPzHmLAv7uj6QLLRaBCYAvdRkvhyrebm79jlGe/rC4ExYV+h8+FfjQkfZQN5X18sL994Oow7Ch9nszrMBgsC02lM2GNEolFSItlo1JjAFEiJMaZgSJkhZYaUGdqUE2Fs107WOvDULrKZkHYZ2jT18ovMThynEMc09BTyzL52nBPFPbTL0IZHuh9ifP8Y2XyeycP7aZg+cogg3szE4YM8mO+iHYY2vPXqOEkc41Q5sK9If+8WHhscoLh3BKdK2NXF9PgrtCPDPTzx+A6Gn9+N5X+inH59glwuRy3K0bCnuJfS9z/wx+W/WI9hHUEQcOqNU1hRrChWIqwoSyuOm9ZhJcKKYkWpasTk1CT3kmEdI8UX6N++HZckNDjn+OzzLxARdjw7TDaboWHoyZ0889xufvnxJ1oxtNARxxx5cxorgtUIqxFWI74pzbH09xLXr13nwoWLWImwEmElwmrEsTOnkSiiFUMLB6cm0S29WImwolhRrpVvcfHrczR8++VX3KisYEWxolhR4oGtjJ08QSuGJnoGBxkeP4ZTxYniRHGinPvwI2rVKg32ToXSJ5/iRHGiOFGcKCMTJyn09tKMoYl9775DrWMTVhSrilXl90uX+G3+O9b6ee48V65exapiVbGq/LO5k9G3z9BMhjW6h4bYNLCVK39eZrW5s7M0k3hP6ewsL73/HqsVtm0j39fHrYUFVgu6H+hLSJEhZYaUGVJmfOLLpMR7Xza1u26elNTuunlTWVme8b6+yAbzvr5YscszYZIkt6s1WzJB2BOGYX8QBDnuoyTx5WrNnr9duXnU+/rCvxZK56s0VzVqAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAACz0lEQVR4Ab3BPUtbCxzA4d/v5Eg9npiUjs1QKFo6iHRuuxSlk2sJlH6Cjs79EAp+AQd1cytOKtLumZoOQh1ixSn25XDyUvHe+x8CF0lfLzfP41//YIISJixhwhImLGHCEiYsYcISJixhwhImLOF/cHZ2xvckXHN5ecnh4SH/1m63ef36NaHT6fAzBwcHFEXBOAnXpGnK169f6Xa7bG1tcXV1xebmJvPz81xcXLC3t0dRFPzI58+fKcuSoii4LmWMqakpPnz4wO7uLrVajSzLyPOc09NTyrLk48ePNBoNqtUqrVaLd+/e8eDBAxYWFtjZ2WFvb4/T01NevnyJSp7njCSMMT09zdHRES9evGB9fZ2nT5+icnJyQr/fZ2Njg06nw5s3b2i32ywvL7O2tkZZljSbTRYXF1ldXSXLMnq9HmVZMpIwxtzcHPv7+9y+fZuiKLhz5w7h7OyMZ8+e8ejRI1qtFm/fvmVpaYnz83Pev39PURT0+32KokAlqPR6PcqyJKSM0Wg0uHXrFt++fePJkyeohC9fvjAzM4PKYDAgyzK2t7fpdrs8fPgQlU6nQ6VSIagElcFggErKGEmS8OrVK/r9PisrKwSVZrOJyuPHjwmVSoVer0ee5xwfHxPyPOf58+eoBBWVMBgMSPmO+/fv8+nTJ8qyRCXcuHGDkKYpI3meo3Lv3j1UpqenuXv3LkFFJaiEhB+4efMmeZ4TVILKiIpKUAkqQUUlqASVlJ+o1+uEXq+HyoiKSlAJKkFFJagEFZWEX1Cv15mZmWFERSWoBJWgohJUgopKSPlFtVqN0O/3UQkqQSWoqASVoKISVBJ+Q61WI8sygkpQCSoqQSWoqASVkPCbZmdnybKMoBJUVIJKUFEJKkEl5Q9Uq1XCYDBARSWoBBWVoBJUVFL+ULVaRWU4HBJUgopKUAkqKiHlP8jzHJXhcEhQUQkqQUUlqPwNHuXXLdRVgM4AAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -907,7 +908,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.125628140703519 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.904522613065327 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -925,10 +926,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">14</div>
+                                        <div class="value">15</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 14 users</div>
+                                <div class="text">Following 15 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1258,14 +1259,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2022, 18:06:07 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 3 Apr 2022, 19:06:17 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
