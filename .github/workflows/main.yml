@@ -47,14 +47,8 @@ jobs:
           plugin_lines: yes
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music: yes
-          plugin_music_mode: recent
+          plugin_music_mode: top
           plugin_music_provider: youtube
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_sponsors_custom: vignetteapp, infi, insertish
-          plugin_people_thanks: insertish, infi
-          plugin_people_types: followers, following
           plugin_posts: yes
           plugin_posts_limit: 4
           plugin_posts_source: dev.to
