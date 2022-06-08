@@ -1,14 +1,3 @@
 ![Metrics](/github-metrics.svg)
 
-![gif](https://pbs.twimg.com/media/FIQiM1bVQAIonYy?format=jpg&name=large)
-
-
-```markdown
-# THE ONLY WAY I CAN EVER CONTACT YOU :
-Matrix : `@initmd:m.wfr.moe`
-Revolt : `rvlt.gg/Geshi`
-Discord : `Geshi#000(One)`
-Fedi : `miruku.cafe/@aoi`
-the other ones are impersonators
-i will always allow to confirm on two different chat platforms
-```
+![gif](https://i.pximg.net/img-master/img/2022/04/02/01/05/03/97338754_p0_master1200.jpg)
